@@ -1,0 +1,22 @@
+# This CITATION.cff file was generated with cffinit.
+# Visit https://bit.ly/cffinit to generate yours today!
+
+cff-version: 1.2.0
+title: LicencePI
+message: >-
+  If you use this software, please cite it using the
+  metadata from this file.
+type: software
+authors:
+  - given-names: Jianlian Ye
+  - given-names: Wei Wang
+  - given-names: Samarth Singh
+repository-code: 'https://github.com/SamarthSingh2001/LicencePI'
+abstract: >-
+  Python-powered software for license plate detection and
+  recognition. 
+keywords:
+  - Python
+  - Computer Vision
+  - Convolution Neural Network
+license: AML
